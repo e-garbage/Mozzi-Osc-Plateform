@@ -10,4 +10,8 @@ This allow to connect quickly four knob, one 1V/oct input, and one Audio out (eu
 
 ### Interface board
 
+/*wip*/
+
 ### Code
+
+/*wip*/
